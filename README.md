@@ -57,4 +57,6 @@ I can't promise I'll implement every one, but I'm happy to look into any request
 that's next on my list.
 
 Final note, this is my first real attempt at publishing something on Github. I admittedly have no idea what I'm doing.
-Patience is appreciated :). - <3 Ulcy
+Patience is appreciated :). 
+
+- <3 Ulcy
