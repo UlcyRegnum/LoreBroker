@@ -1,0 +1,3 @@
+# LoreBroker Requirements
+# This application uses only Python standard library modules
+# tkinter should be included with your standard Python installation. If it isn't it can be installed seperately.
