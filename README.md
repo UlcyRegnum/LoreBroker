@@ -1,4 +1,15 @@
-FIELD EXPLANATION:
+# LoreBroker Overview
+LoreBroker is a simple offline program for managing AI RP lorebooks. It was designed specifically with Chub.ai 
+in mind but lorebooks created here can also be exported to Silly Tavern.
+
+## Installation
+Both Windows and Linux are available on the [Releases](https://github.com/UlcyRegnum/lorebroker/releases) page. They should run with no addtional downloads.
+I say should because most python installs will contain TKinter by default but if it doesn't you can install seperately.
+You can also download the source directly and build yourself should that be something you're in to.
+
+For Linux you'll need to make the file executable, 'chmod +x LoreBroker', first.
+
+## FIELD EXPLANATION:
 - Book Title: This is the title of the overall Lore Book. (Note: It does not pull into Chub. I'm not even sure if
     that's possible in chub, but works in ST.)
 - Entry Title: This is the title of the individual Lore Book Entry and works in both Chub and ST.
@@ -18,7 +29,7 @@ FIELD EXPLANATION:
 - Enabled: Whether this entry is enabled.
 - Lore Entries: This is a scrolling list of entries that you've saved.
 
-USAGE:
+## USAGE Notes:
 Import and Export JSON allow you to import and export JSON files. It works with both ST and Chub JSON formats. HOWEVER
 because this program was designed with Chub in mind it lacks some fields that ST has. As a result some functions like
 sticky, Cooldown, Delay, etc... Basically, anything not listed above in the Explanation section, are not contained in
@@ -35,11 +46,14 @@ then immediately start the next one if you were starting a new book.
 
 Delete Entry deletes the currently selected entry.
 
-IMPORTANT NOTES: I don't currently have any autosave implementation. You should save your lore books using Export JSON
+## IMPORTANT NOTES: I don't currently have any autosave implementation. You should save your lore books using Export JSON
 regularly to avoid data loss. Please also keep a backup of your existing Lore Books if you're Importing them. While
 I am pretty confident in what I've built it is always nice to have regular backups.
 
 Please feel free to leave comments on Github :). I have tested this quite a bit, but I'm forever willing to admit that
-I make mistakes. I'll try and get issues resolved as fast as I can. You're also welcome to leave feature requests.
+I make mistakes. I'll try and get issues resolved as fast as I can. You're also welcome to leave PRs.
 I can't promise I'll implement every one, but I'm happy to look into any request. Also, I'm aware my code is a mess,
 that's next on my list.
+
+Final note, this is my first real attempt at publishing something on Github. I admittedly have no idea what I'm doing.
+Patience is appreciated :). - <3 Ulcy
