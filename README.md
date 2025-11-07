@@ -3,7 +3,7 @@ LoreBroker is a simple offline program for managing AI RP lorebooks. It was desi
 in mind but lorebooks created here can also be exported to Silly Tavern.
 
 ## Installation
-Both Windows and Linux are available on the [Releases](https://github.com/UlcyRegnum/lorebroker/releases) page. They should run with no addtional downloads.
+Both Windows and Linux executables are available on the [Releases](https://github.com/UlcyRegnum/lorebroker/releases) page. They should run with no addtional downloads.
 I say should because most python installs will contain TKinter by default but if it doesn't you can install seperately.
 You can also download the source directly and build yourself should that be something you're in to.
 
