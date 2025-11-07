@@ -47,8 +47,8 @@ then immediately start the next one if you were starting a new book.
 Delete Entry deletes the currently selected entry.
 
 ## IMPORTANT NOTES: 
-### I don't currently have any autosave implementation. You should save your lore books using Export JSON
-regularly to avoid data loss. Please also keep a backup of your existing Lore Books if you're Importing them. While
+### I don't currently have any autosave implementation. You should save your lore books using Export JSON regularly to avoid data loss. 
+Please also keep a backup of your existing Lore Books if you're Importing them. While
 I am pretty confident in what I've built it is always nice to have regular backups.
 
 Please feel free to leave comments on Github :). I have tested this quite a bit, but I'm forever willing to admit that
