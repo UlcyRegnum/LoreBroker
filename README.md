@@ -2,6 +2,8 @@
 LoreBroker is a simple offline program for managing AI RP lorebooks. It was designed specifically with Chub.ai 
 in mind but lorebooks created here can also be exported to Silly Tavern.
 
+![LoreBroker Interface][https://files.catbox.moe/vk35t3.png]
+
 ## Installation
 Both Windows and Linux executables are available on the [Releases](https://github.com/UlcyRegnum/lorebroker/releases) page. They should run with no addtional downloads.
 I say should because most python installs will contain TKinter by default but if it doesn't you can install seperately.
